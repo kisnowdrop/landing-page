@@ -9,3 +9,14 @@
 .header-links {
     list-style-type: none;
 }
+
+.logo {
+    color: white;
+}
+
+.header-links {
+    display: flex;
+    gap: 25px;
+    margin-right: 200px;
+    color: white;
+}
