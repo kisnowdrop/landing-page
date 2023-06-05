@@ -1,5 +1,8 @@
 .header {
     display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    background-color: #1F2937;
 }
 
 .logo,
