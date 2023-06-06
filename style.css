@@ -36,3 +36,8 @@
 .left {
     width:364px;
 }
+
+.section-two {
+    display: flex;
+    justify-content: space-between;
+}
