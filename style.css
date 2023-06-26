@@ -69,5 +69,7 @@
 }
 
 .text {
-    
+    color: #F9FAF8;
+    white-space: nowrap;
+    font-size: 20px;
 }
