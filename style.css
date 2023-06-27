@@ -151,3 +151,19 @@
 .sign {
     font-size: 20px;
 }
+
+.button {
+    display: flex;
+    flex-shrink: 0;
+    width: 140px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: 600;
+    height: 40px;
+    background-color: #3882F6;
+    border-style: solid;
+    border-color: #F9FAF8;
+    color: #F9FAF8;
+}
