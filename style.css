@@ -139,5 +139,6 @@
     margin-left: 271px;
     margin-right: 271px;
     border-radius: 12px;
-    justify-content: center;
+    justify-content: space-around;
+    color: #F9FAF8;
 }
