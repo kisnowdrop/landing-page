@@ -131,4 +131,12 @@
 
 .section-five {
     display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: #3882F6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 271px;
+    margin-right: 271px;
+    border-radius: 12px;
 }
