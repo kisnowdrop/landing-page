@@ -142,3 +142,8 @@
     justify-content: space-around;
     color: #F9FAF8;
 }
+
+.call {
+    font-size: 25px;
+    font-weight: 600;
+}
