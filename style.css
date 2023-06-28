@@ -1,12 +1,10 @@
 .header {
     display: flex;
     justify-content: space-between;
-    background-color: #1F2937;
 }
 
 .footer {
     text-align: center;
-    background-color: #1F2937;
     padding: 40px;
     color: #F9FAF8;
     font-size: 20px;
@@ -15,6 +13,12 @@
 .logo,
 .header-links {
     list-style-type: none;
+}
+
+.header,
+.footer,
+.section-two {
+    background-color: #000;
 }
 
 .logo {
@@ -45,7 +49,6 @@
 .section-two {
     display: flex;
     justify-content: space-between;
-    background-color: #1F2937;
     padding-bottom: 80px;
 }
 
