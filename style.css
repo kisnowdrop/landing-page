@@ -37,17 +37,6 @@
     color: #F9FAF8;
 }
 
-.card {
-    padding: 100px;
-    margin-left: 225px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    background-color: #abadaf;
-    padding-left: 175px;
-    padding-right: 175px;
-    margin-right: 200px;
-}
-
 .left {
     width:364px;
     margin-left: 238px;
@@ -182,3 +171,4 @@
     border-color: #F9FAF8;
     color: #F9FAF8;
 }
+
