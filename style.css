@@ -182,14 +182,17 @@
 .imagetwo {
     height: auto;
     width: 300px;
+    border-radius: 9px;
 }
 
 .imagethree {
     height: auto;
     width: 358px;
+    border-radius: 9px;
 }
 
 .imagefour {
     height: auto;
     width: 315px;
+    border-radius: 9px;
 }
