@@ -65,6 +65,11 @@
     margin-bottom: 0px;
 }
 
+.awesome,
+.under {
+    color: #F9FAF8;
+}
+
 .button {
     background-color: #3882F6;
     display: flex;
