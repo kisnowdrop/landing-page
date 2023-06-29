@@ -120,6 +120,10 @@
 
 .text {
     width: 146px;
+    color: #a980f3;
+    font-weight: 600;
+    margin-left: 100px;
+    margin-top: 5px;
 }
 
 .quote {
@@ -196,7 +200,7 @@
 
 .imagethree {
     height: auto;
-    width: 358px;
+    width: 300px;
     border-radius: 9px;
 }
 
