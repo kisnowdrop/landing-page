@@ -59,6 +59,7 @@
 .awesome {
     font-size: 60px;
     margin-bottom: 0px;
+    font-size: 40px;
 }
 
 .awesome,
@@ -67,14 +68,15 @@
 }
 
 .buttons {
-    background-color: #3882F6;
+    background-color: #ffffff;
     display: flex;
     padding: 8px;
     justify-content: center;
     font-size: 16px;
     width: 118px;
     border-radius: 8px;
-    color: #F9FAF8;
+    color: #a980f3;
+    border-color: #a980f3;
 }
 
 .under {
