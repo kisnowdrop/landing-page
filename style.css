@@ -173,12 +173,11 @@
     align-items: center;
     border-radius: 6px;
     font-size: 18px;
-    font-weight: 600;
     height: 40px;
-    background-color: #3882F6;
+    background-color: #ffffff;
     border-style: solid;
-    border-color: #F9FAF8;
-    color: #F9FAF8;
+    border-color: #a980f3;
+    color: #a980f3;
 }
 
 .imageone {
